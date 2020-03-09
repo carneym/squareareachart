@@ -1,2 +1,2 @@
 # squareareachart
-Library to produce square are chart
+Library to produce square area chart
